@@ -1,2 +1,2 @@
-# mydevopsproj
-my devops mini project
+# mini-devops-project
+mini-devops-project
